@@ -1,0 +1,33 @@
+C:\Users\jezco\source\repos\Lift assignmentn\Lift assignmentn\bin\Debug\Lift assignmentn.exe.config
+C:\Users\jezco\source\repos\Lift assignmentn\Lift assignmentn\bin\Debug\Lift assignmentn.exe
+C:\Users\jezco\source\repos\Lift assignmentn\Lift assignmentn\bin\Debug\Lift assignmentn.pdb
+C:\Users\jezco\source\repos\Lift assignmentn\Lift assignmentn\obj\Debug\Lift assignmentn.csproj.AssemblyReference.cache
+C:\Users\jezco\source\repos\Lift assignmentn\Lift assignmentn\obj\Debug\Lift_assignmentn.Form1.resources
+C:\Users\jezco\source\repos\Lift assignmentn\Lift assignmentn\obj\Debug\Lift_assignmentn.Properties.Resources.resources
+C:\Users\jezco\source\repos\Lift assignmentn\Lift assignmentn\obj\Debug\Lift assignmentn.csproj.GenerateResource.cache
+C:\Users\jezco\source\repos\Lift assignmentn\Lift assignmentn\obj\Debug\Lift assignmentn.csproj.CoreCompileInputs.cache
+C:\Users\jezco\source\repos\Lift assignmentn\Lift assignmentn\obj\Debug\Lift assignmentn.exe
+C:\Users\jezco\source\repos\Lift assignmentn\Lift assignmentn\obj\Debug\Lift assignmentn.pdb
+C:\Users\jezco\source\repos\Lift assignmentn\Lift assignmentn\bin\Debug\Database31.accdb
+D:\Lift assignmentn\Lift assignmentn\bin\Debug\Database31.accdb
+D:\Lift assignmentn\Lift assignmentn\bin\Debug\Lift assignmentn.exe.config
+D:\Lift assignmentn\Lift assignmentn\bin\Debug\Lift assignmentn.exe
+D:\Lift assignmentn\Lift assignmentn\bin\Debug\Lift assignmentn.pdb
+D:\Lift assignmentn\Lift assignmentn\obj\Debug\Lift assignmentn.csproj.AssemblyReference.cache
+D:\Lift assignmentn\Lift assignmentn\obj\Debug\Lift_assignmentn.Form1.resources
+D:\Lift assignmentn\Lift assignmentn\obj\Debug\Lift_assignmentn.Properties.Resources.resources
+D:\Lift assignmentn\Lift assignmentn\obj\Debug\Lift assignmentn.csproj.GenerateResource.cache
+D:\Lift assignmentn\Lift assignmentn\obj\Debug\Lift assignmentn.csproj.CoreCompileInputs.cache
+D:\Lift assignmentn\Lift assignmentn\obj\Debug\Lift assignmentn.exe
+D:\Lift assignmentn\Lift assignmentn\obj\Debug\Lift assignmentn.pdb
+C:\Users\jezco\OneDrive\Desktop\Lift assignmentn - Copy (3)\Lift assignmentn\bin\Debug\Database31.accdb
+C:\Users\jezco\OneDrive\Desktop\Lift assignmentn - Copy (3)\Lift assignmentn\bin\Debug\Lift assignmentn.exe.config
+C:\Users\jezco\OneDrive\Desktop\Lift assignmentn - Copy (3)\Lift assignmentn\bin\Debug\Lift assignmentn.exe
+C:\Users\jezco\OneDrive\Desktop\Lift assignmentn - Copy (3)\Lift assignmentn\bin\Debug\Lift assignmentn.pdb
+C:\Users\jezco\OneDrive\Desktop\Lift assignmentn - Copy (3)\Lift assignmentn\obj\Debug\Lift assignmentn.csproj.AssemblyReference.cache
+C:\Users\jezco\OneDrive\Desktop\Lift assignmentn - Copy (3)\Lift assignmentn\obj\Debug\Lift_assignmentn.Form1.resources
+C:\Users\jezco\OneDrive\Desktop\Lift assignmentn - Copy (3)\Lift assignmentn\obj\Debug\Lift_assignmentn.Properties.Resources.resources
+C:\Users\jezco\OneDrive\Desktop\Lift assignmentn - Copy (3)\Lift assignmentn\obj\Debug\Lift assignmentn.csproj.GenerateResource.cache
+C:\Users\jezco\OneDrive\Desktop\Lift assignmentn - Copy (3)\Lift assignmentn\obj\Debug\Lift assignmentn.csproj.CoreCompileInputs.cache
+C:\Users\jezco\OneDrive\Desktop\Lift assignmentn - Copy (3)\Lift assignmentn\obj\Debug\Lift assignmentn.exe
+C:\Users\jezco\OneDrive\Desktop\Lift assignmentn - Copy (3)\Lift assignmentn\obj\Debug\Lift assignmentn.pdb
